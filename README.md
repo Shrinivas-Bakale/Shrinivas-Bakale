@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @Shrinivas-Bakale
-- 👀 I’m interested in Coding ig
-- 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on Idk yet will let u know
-- 📫 How to reach me 9880937910
-- 😄 Pronouns: MALE
-- ⚡ Fun fact: HEhe
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!---
-Shrinivas-Bakale/Shrinivas-Bakale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">My name is Shrinivas and I'm a Frontend Developer from Hubli and currently working at Orbit Technologys and Cloud Solutions</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning BCA<br>🎯 Goals: Successful Software Developer<br>🎲 Fun fact: It is that you don't need to be smart you just need to observe the smart people to adapt</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
